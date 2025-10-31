@@ -1,0 +1,4 @@
+,freight_cost_index,oil_price_usd,port_congestion_index
+freight_cost_index,1.0,-0.6052211278065827,0.6396702034621341
+oil_price_usd,-0.6052211278065827,1.0,-0.5924957565083271
+port_congestion_index,0.6396702034621341,-0.5924957565083271,1.0
